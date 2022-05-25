@@ -1,4 +1,4 @@
-https://www.codewars.com/users/nishink/badges/large
+![CodeWars Badge](https://www.codewars.com/users/nishink/badges/large)
 
 <!--
 ### Hi there 👋
