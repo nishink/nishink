@@ -1,5 +1,5 @@
 [CodeWars Profile](https://www.codewars.com/users/nishink)
-![CodeWars Badge](https://www.codewars.com/users/nishink/badges/large)
+![CodeWars Badge](https://www.codewars.com/users/nishink/badges/micro)
 
 <!--
 ### Hi there 👋
